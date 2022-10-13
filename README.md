@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicheleSaba
 - 👀 I’m interested in UX Design, Product Design, Entrepreneurship, Customer Centricity
-- 🌱 I’m currently learning Augmented Reality
+- 🌱 I’m currently learning augmented reality
 - 📫 You can reach me on Linkedin. 
 
 <!---
