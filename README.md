@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MicheleSaba
-- 👀 I’m interested in UX Design, Product Design, Entrepreneurship, Customer Centricity
-- 🌱 I’m currently learning augmented reality
-- 📫 You can reach me on Linkedin
+-Hello, I’m @MicheleSaba
+-I’m passionate about UX Design, Usability, Product Design, Entrepreneurship, Customer Centricity
+-I’m currently learning augmented reality
 
 <!---
 MicheleSaba/MicheleSaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
